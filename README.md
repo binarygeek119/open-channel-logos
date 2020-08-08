@@ -3,7 +3,8 @@ this repository is for open free to use channel logos.
 
 all logos in here must not contain any copyrighted © or Trade Mark ™ content.
 
-if you supply a logo to the repository you are giveing up all right to it it will become open source or free to use.
+if you supply a logo to the repository
+you are giveing up all right to it it will become open source or free to use.
 this work must me family friendly. if you have adult only logos you must put any of them in a folder named Adult, then the sub folders like shows movies etc.
 adult logos include bad words or not appropriate for younger viewers. there will be no XXX channel logos.
 if you dont like this you my clone this repository for XXX logos only. send a message to me and i link to it but i will not provide XXX logos.
@@ -12,6 +13,10 @@ if you dont like this you my clone this repository for XXX logos only. send a me
 
 **Get pseudotv here**
 https://github.com/DEFENDORe/pseudotv
+
+Also i have this repository <br />
+**PseudotTV-Commercials-Pack**
+https://github.com/binarygeek119/PseudotTV-Commercials-Pack
 
 
 **Lastest Version V1.0.0-Beta**
@@ -27,4 +32,4 @@ https://github.com/DEFENDORe/pseudotv
 
 **Changelog**
 
-https://github.com/binarygeek119/PseudotTV-Commercials-Pack/blob/master/Changelog
+https://github.com/binarygeek119/pseudotv-open-channel-logos/blob/master/Changelog.md
