@@ -1,4 +1,4 @@
-# pseudotv-open-channel-logos
+# dizquetv-open-channel-logos
 this repository is for open free to use channel logos.
 
 all logos in here must not be copyrighted © or Trade Mark ™ content. so no a&e abc fox logos anything made by you. i will allow anything but XXX logos and real channels.
