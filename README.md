@@ -18,7 +18,7 @@ https://github.com/vexorian/dizquetv
 https://github.com/DEFENDORe/pseudotv
 
 Also i have this repository <br />
-**PseudotTV-Commercials-Pack**
+**Dizquetv-Commercials-Pack**
 https://github.com/binarygeek119/PseudotTV-Commercials-Pack
 
 
