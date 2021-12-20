@@ -62,7 +62,7 @@ unknown if it supports filler and logos<br>
 Also i have this repository to check out<br>
 # Open-Commercials-Pack
 <br>
-https://github.com/binarygeek119/Open-Commercials-Pack<br>
+https://github.com/binarygeek119/Open-Commercial-Pack<br>
 
 
 # Lastest Version **V1.0.0-Beta**<br>
