@@ -59,22 +59,21 @@ kodi frontend<br>
 unknown if it supports filler and logos<br>
 
 
-Also i have this repository to check out<br>
-# Open-Commercial-Pack
-<br>
-https://github.com/binarygeek119/Open-Commercial-Pack<br>
+Also i have this repository to check out Binarygeek119's Other Repositorys
 
 
-# Lastest Version **V1.0.0-Beta**<br>
+Open-Commercial-Pack - https://github.com/binarygeek119/Open-Commercial-Pack
+This is a Commercial Pack for many projects such as ersatztv, dizquetv, pseudotv, VirtualTV Emby Plugin, and PseudoTV Kodi Addon
 
+open-channel-logos - https://github.com/binarygeek119/open-channel-logos
+Open free to use channel logos. Used for  ersatztv, dizquetv, pseudotv, VirtualTV Emby Plugin, and PseudoTV Kodi Addon
 
-**versioning lay out**<br>
+closed-channel-logos - https://github.com/binarygeek119/closed-channel-logos
+Real channel logos channel logos. Used for  ersatztv, dizquetv, pseudotv, VirtualTV Emby Plugin, and PseudoTV Kodi Addon
 
-**V** = Version<br />
-**First Number** = Release<br />
-**Second Number** = Additional Content<br />
-**Thrid Number** = Fixes <br />
-**Beta** = Not Official Release<br />
+open-custom-posters - https://github.com/binarygeek119/open-custom-posters
+Custom posters for the app like Posterr or Digital Movie Poster (DMP)
+
 
 # Changelog
 
