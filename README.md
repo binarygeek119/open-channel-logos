@@ -3,7 +3,7 @@ this repository is for open free to use channel logos.
 <br>
 # Open Repository's discord
 
-https://discord.gg/CZTGFD9K
+https://discord.gg/AEhVjqX4Af
 
 <br><br>
 all logos in here must not be copyrighted © or Trade Mark ™ content. so no a&e abc fox logos anything made by you. i will allow anything but XXX logos and real channels.
